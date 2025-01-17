@@ -4,6 +4,8 @@
 
 Catatan:
 - Setiap project yang akan dikerjakan dimulai dengan membuat branch terlebih dahulu (1 branch baru untuk 1x push, jika akan mengerjakan tipe pekerjaan lain maka buat branch baru lagi).
+- Test dikerjakan dengan membuat file baru pada folder `cypress\e2e\tests` dengan format `[namaPageTest.cy.js]` misalkan `loginTest.cy.js`
+- Jika ingin menggunakan `fixtures` harap membuat file baru pada folder `cypress\fixtures` dengan contoh nama file `userLogin.json`.
 
 ### **1. Jika Baru Pertama Kali Akan Clone dari Repo GitHub**
 
