@@ -3,7 +3,7 @@
 ## Panduan Langkah-Langkah untuk Berkontribusi pada Proyek
 
 Catatan:
-- Setiap project yang akan dikerjakan dimulai dengan membuat branch terlebih dahulu (1 branch baru untuk 1x push, jika akan mengerjakan tipe pekerjaan lain maka buat branch baru lagi)
+- Setiap project yang akan dikerjakan dimulai dengan membuat branch terlebih dahulu (1 branch baru untuk 1x push, jika akan mengerjakan tipe pekerjaan lain maka buat branch baru lagi).
 
 ### **1. Jika Baru Pertama Kali Akan Clone dari Repo GitHub**
 
