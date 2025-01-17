@@ -54,11 +54,7 @@ Catatan:
 ### **2. Jika Sudah Pernah Mengerjakan Proyek/Push di Repo yang Sama Sebelumnya**
 - Jangan lupa untuk menarik (pull) perubahan terbaru dari branch utama sebelum memulai pekerjaan baru:
    ```bash
-   git pull origin [nama_branch]
-   ```
-   dalam proyek kita kali ini adalah
-   ```bash
-   git pull origin Develop
+   git pull
    ```
 - Silahkan Kerjakan Proyeknya
 
