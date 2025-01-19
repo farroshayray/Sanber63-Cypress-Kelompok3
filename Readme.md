@@ -1,5 +1,18 @@
 # Sanber63-Cypress-Kelompok3
 
+## Anggota Kelompok & Roles
+
+
+| Nama                      | username github       | Test yang dilakukan                 |
+|---------------------------|-----------------------|-------------------------------------|
+| **Qonita Lutfia**         | `qonitalutfia`      | Create Account Test                   |
+| **Novazira A.F**          | `novaziraa`         | Login Test                            |
+| **Fadly Mahendra**        | `fadlymahendra`     | Edit Account Information              |
+| **Reza Hammed Tri Wibowo**| `rezahamedtriwibowo`| Edit Adress                           |
+| **Samuel Allhert**        | `Toxine1157`        | Choose Product & Update shopping cart |
+| **Farros H.R**            | `farroshayray`      | Proceed to Checkout                   |
+
+
 ## Panduan Langkah-Langkah untuk Berkontribusi pada Proyek
 
 Catatan:
