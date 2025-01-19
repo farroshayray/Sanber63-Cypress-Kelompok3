@@ -8,7 +8,7 @@
 | **Qonita Lutfia**         | `qonitalutfia`      | Create Account Test                   |
 | **Novazira A.F**          | `novaziraa`         | Login Test                            |
 | **Fadly Mahendra**        | `fadlymahendra`     | Edit Account Information              |
-| **Reza Hammed Tri Wibowo**| `rezahamedtriwibowo`| Edit Adress                           |
+| **Reza Hammed Tri Wibowo**| `rezahamedtriwibowo`| Edit Address                           |
 | **Samuel Allhert**        | `Toxine1157`        | Choose Product & Update shopping cart |
 | **Farros H.R**            | `farroshayray`      | Proceed to Checkout                   |
 
