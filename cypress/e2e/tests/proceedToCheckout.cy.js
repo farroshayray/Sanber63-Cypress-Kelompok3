@@ -90,11 +90,15 @@ describe('Proceed To Checkout Test', () => {
         cy.get('.showcart').click();
 
         cy.get('.minicart-items-wrapper').should('be.visible');
+        cy.contains('Proceed to Checkout').should('be.visible');
 
+        cy.wait(3000);
         cy.get('.product-item-details > .actions > .secondary > .action').click();
         cy.get('.action-primary').click();
+        
 
         cy.contains('You have no items in your shopping cart.').should('be.visible');
+        cy.contains('Proceed to Checkout').should('not.exist');
     })
 
     it('should proceed to checkout', () => {
@@ -145,7 +149,7 @@ describe('Proceed To Checkout Test', () => {
             const repeatBackspace = '{backspace}'.repeat(50);
             cy.wrap($input)
                 .type(repeatBackspace)
-                .type('Ros Corp')
+                .type('Berkah Maju Corp')
         });
         cy.fixture('user_farros').then((user) => {
             cy.get('[name="street[0]"]').type(user.street0);
