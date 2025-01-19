@@ -1,0 +1,22 @@
+[
+    {
+        "email": "novatest@gmail.com",
+        "password": "Password123"
+    },
+    {
+        "email": "test@gmail.com",
+        "password": "password"
+    },
+    {
+        "email": "test@gmail.com",
+        "password": "Password123"
+    },
+    {
+        "email": "novatest@gmail.com",
+        "password": "Password"
+    },
+    {
+        "email": "invalidtest",
+        "password": "Password123"
+    }
+]
